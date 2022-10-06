@@ -1,2 +1,1 @@
-# TA_OKC
-OKC Thunder DS&amp;S Technical Assessment
+OKC Thunder DS&S Technical Assessment
